@@ -49,6 +49,8 @@ if (isset($_POST['submit_homework'])) {
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 <title>Admin Upload</title>
 <style>
 body { font-family: Arial, sans-serif; text-align: center; padding: 50px; background: #f4f6f8; }
@@ -90,4 +92,5 @@ h2 { margin-bottom: 15px; }
 <a href="logout.php" class="logout">Logout</a>
 
 </body>
+
 </html>
