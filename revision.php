@@ -29,6 +29,8 @@ if ($files) {
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 <title>Homeworks</title>
 <style>
 body { font-family: Arial, sans-serif; padding: 50px; background: #f4f6f8; text-align: center; }
@@ -62,4 +64,5 @@ if ($files) {
 <a href="logout.php" class="back" style="background:#e74c3c;">Logout</a>
 
 </body>
+
 </html>
