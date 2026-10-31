@@ -17,6 +17,5 @@ Backend features (PHP) are disabled on GitHub Pages.
 -Make the community aware of the school
 -prepare for future academic projects
 
-## Status 
-
-completed.
+## Status: completed.
+View the site: https://ishmael-quant.github.io/Tido-school-website/index.html
